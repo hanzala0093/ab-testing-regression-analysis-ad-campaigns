@@ -16,3 +16,17 @@ Using Python and data analysis libraries (`pandas`, `seaborn`, `matplotlib`, `sc
 - ⚖️ **Equilibrium relationship testing** indicating long-term stability between **spend and conversions**.
 
 > 🔍 **Conclusion:** The findings clearly showed **Facebook outperformed AdWords** in both conversion rate and cost-efficiency, enabling the business to **reallocate budget more effectively for higher ROI**.
+
+Comparing Campaigns performance
+![Image](https://github.com/user-attachments/assets/20107aba-9498-47d6-8df1-2fd9976b0ee9)
+
+![Image](https://github.com/user-attachments/assets/cf040e10-88e2-469d-a708-1348530bd664)
+
+![Image](https://github.com/user-attachments/assets/eae09470-7152-41dc-83a3-f4344887bece)
+
+![Image](https://github.com/user-attachments/assets/fcc7dfa1-569c-4def-8975-5d9ab21198b9)
+
+![Image](https://github.com/user-attachments/assets/6bc6e2e6-7c20-4c81-b2a6-a98a6e74a19b)
+
+![Image](https://github.com/user-attachments/assets/3a4ca290-dcb1-488f-9772-86a9376b885a)
+
